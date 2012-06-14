@@ -136,3 +136,6 @@ Process()
 }
 
 Process Three20UI Three20UI
+Process Three20 Three20
+Process extThree20JSON extThree20JSON+SBJSON
+Process extThree20XML extThree20XML
